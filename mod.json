@@ -7,13 +7,15 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"version" : "0.2",
-	"changelog" : 
-	{
-		"0.2"  : [ "Added softdepencies" ],
-		"0.1"  : [ "Initial port of 0.7.7.6 without few files and just for base game" ]
+	"changelog" : {
+		"0.2" : [
+			"Added softdepencies"
+		],
+		"0.1" : [
+			"Initial port of 0.7.7.6 without few files and just for base game"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.6.0"
 	},
 	"softDepends" : [
@@ -40,11 +42,11 @@
 		"description" : "Fügt 32-Bit-Grafiken in hoher Auflösung aus der ERA HD Edition hinzu, einschließlich verbesserter Abenteuerkarten- und Interface-Elemente."
 	},
 	"ukrainian" : {
-		"name": "Heroes III HD Edition Remastered",
-		"description": "Додає 32-бітну графіку у високій роздільній здатності з моду ERA HD Edition, включаючи покращені елементи карти пригод і інтерфейсу."
+		"name" : "Heroes III HD Edition Remastered",
+		"description" : "Додає 32-бітну графіку у високій роздільній здатності з моду ERA HD Edition, включаючи покращені елементи карти пригод і інтерфейсу."
 	},
 	"russian" : {
-		"name": "Heroes III HD Edition Remastered",
-		"description": "Добавляет 32-битную графику в высоком разрешении из мода ERA HD Edition, включая улучшенные элементы карты приключений и интерфейса."
+		"name" : "Heroes III HD Edition Remastered",
+		"description" : "Добавляет 32-битную графику в высоком разрешении из мода ERA HD Edition, включая улучшенные элементы карты приключений и интерфейса."
 	}
 }
